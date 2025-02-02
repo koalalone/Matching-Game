@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab475700cea7bbc428a2585bf50d832b, type: 3}
+  m_Name: TileSprites
+  m_EditorClassIdentifier: 
+  tileSprites:
+  - colorName: Blue
+    defaultSpriteName: Blue_Default
+    aGroupSpriteName: Blue_A
+    bGroupSpriteName: Blue_B
+    cGroupSpriteName: Blue_C
+  - colorName: Green
+    defaultSpriteName: Green_Default
+    aGroupSpriteName: Green_A
+    bGroupSpriteName: Green_B
+    cGroupSpriteName: Green_C
+  - colorName: Pink
+    defaultSpriteName: Pink_Default
+    aGroupSpriteName: Pink_A
+    bGroupSpriteName: Pink_B
+    cGroupSpriteName: Pink_C
+  - colorName: Purple
+    defaultSpriteName: Purple_Default
+    aGroupSpriteName: Purple_A
+    bGroupSpriteName: Purple_B
+    cGroupSpriteName: Purple_C
+  - colorName: Red
+    defaultSpriteName: Red_Default
+    aGroupSpriteName: Red_A
+    bGroupSpriteName: Red_B
+    cGroupSpriteName: Red_C
+  - colorName: Yellow
+    defaultSpriteName: Yellow_Default
+    aGroupSpriteName: Yellow_A
+    bGroupSpriteName: Yellow_B
+    cGroupSpriteName: Yellow_C
+  atlasName: Tiles
+  tileAtlas: {fileID: 100100200, guid: 4a53f99b8e6aeeb4d8552a61b0cedc1f, type: 3}
