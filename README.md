@@ -1,4 +1,4 @@
-# Unity Internship Case - Match-3 Game
+# Unity Internship Case - Matching Game
 
 ## 📌 Project Overview
 This project is developed as part of a **technical case study** for an internship opportunity. The goal was to build a **Match-3 puzzle game** that meets the requirements outlined in the provided PDF document. The project focuses on **grid-based tile management, deadlock detection, optimized shuffling, and performance improvements.**
